@@ -4,7 +4,7 @@ An end-to-end Machine Learning classification pipeline built on the UCI Credit C
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 Credit card default prediction is a crucial task for financial institutions to manage credit risk and minimize financial losses. This project analyzes customer demographic details, historical payment behavior, and bill statements to predict whether a client will default on their credit card payment next month.
 
 Special focus is given to **Recall**, as failing to detect a potential defaulter (False Negative) carries a significantly higher financial risk for lenders than misclassifying a non-defaulter.
@@ -58,8 +58,3 @@ Special focus is given to **Recall**, as failing to detect a potential defaulter
 
 ---
 
-##  How to Run
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/MaiAlhusseini/credit-card-default-prediction.git](https://github.com/MaiAlhusseini/credit-card-default-prediction.git)
-   cd credit-card-default-prediction
